@@ -1,0 +1,3 @@
+[submodule "OpenBuilds-CAM"]
+	path = OpenBuilds-CAM
+	url = https://github.com/OpenBuilds/OpenBuilds-CAM.git
